@@ -1,6 +1,0 @@
-[submodule "server"]
-	path = server
-	url = https://github.com/2016-01-cit337/server.git
-[submodule "demo"]
-	path = demo
-	url = https://github.com/mbroe/play-demo.git
